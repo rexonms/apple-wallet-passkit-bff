@@ -1,5 +1,5 @@
 {
-  "name": "apple-wallet-passkit-poc",
+  "name": "apple-wallet-passkit-bff",
   "version": "0.1.0",
   "private": true,
   "scripts": {
